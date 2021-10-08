@@ -52,12 +52,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-    // import Swiper JS
-  import Swiper from 'swiper';
-    // import Swiper styles
-  import 'swiper/css';
+  // import Swiper JS
+      
+      import Swiper from 'swiper';
+    
+  // import Swiper styles
 
-  const swiper = new Swiper(...);
+     import 'swiper/css';
+
+     const swiper = new Swiper(...);
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
