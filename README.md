@@ -200,7 +200,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Pr0C33D/app.kodinta.lt.svg?style=for-the-badge
 [contributors-url]: https://github.com/Pr0C33D/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
