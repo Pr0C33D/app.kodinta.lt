@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Pr0C33D/app.kodinta.lt">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="http://app.kodinta.lt/kodinta.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">App.Kodinta.LT</h3>
